@@ -1,1 +1,38 @@
-add ur c3c cookie here
+[
+	{
+		"key": "dbln",
+		"value": "%7B%2261590656246620%22%3A%22gfgROoP3%22%2C%22100080695296087%22%3A%22WeZQyGDj%22%2C%2261590846759167%22%3A%22lcd1W5WH%22%7D",
+		"domain": "facebook.com",
+		"path": "/login/device-based/",
+		"hostOnly": false,
+		"creation": "2026-06-20T08:24:42.581Z",
+		"lastAccessed": "2026-06-20T08:24:42.582Z"
+	},
+	{
+		"key": "sb",
+		"value": "BoIuaoT7-toGdhLpo5pkFIoL",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-06-20T08:24:42.582Z",
+		"lastAccessed": "2026-06-20T08:24:42.582Z"
+	},
+	{
+		"key": "datr",
+		"value": "_m81ahi1cy_nJCeM7sX4Tzs1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-06-20T08:24:42.582Z",
+		"lastAccessed": "2026-06-20T08:24:42.582Z"
+	},
+	{
+		"key": "fr",
+		"value": "0LJc3aIHz8zEBASIq..BqNW_-..AAA.0.0.BqNXBi.AWd-BQF-CTHT5rHPzsS9uIcKRo4",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2026-06-20T08:24:42.582Z",
+		"lastAccessed": "2026-06-20T08:24:42.582Z"
+	}
+]
